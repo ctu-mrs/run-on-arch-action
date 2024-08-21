@@ -1,4 +1,4 @@
-FROM ros:noetic
+FROM arm32v7/ros:noetic
 
 RUN apt-get -y update
 
